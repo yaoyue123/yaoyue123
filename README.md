@@ -2,7 +2,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yaoyue123&repo=whuapi)](https://github.com/yaoyue123/whuapi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoyue123&hide=VHDL,Verilog)](https://github.com/yaoyue123/whuapi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoyue123)](https://github.com/yaoyue123/whuapi)
+
 <!--
 **yaoyue123/yaoyue123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
